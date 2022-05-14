@@ -1,0 +1,18 @@
+mapas_training_same
+-------------------
+bigHunt.lay (1 randomghosts)
+capsuleClassic.lay (2 random ghosts, 3 static ghosts)
+contestClassic.lay (4 random ghosts, 5 static ghosts)
+oneHunt.lay (6 random ghosts, 7 static ghosts)
+sixHunt.lay (8 random ghosts, 9 static ghosts)
+
+mapas_test_same
+---------------
+bigHunt.lay(1 randomGhosts)
+oneHunt.lay (2 static ghosts)
+
+mapas_test_other
+----------------
+smallClassic.lay (1 random ghosts)
+testClassic.lay (2 random ghosts, 3 static ghosts)
+

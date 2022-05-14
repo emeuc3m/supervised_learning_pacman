@@ -1,5 +1,5 @@
 # supervised_learning_pacman
-Pac-man trained with supervised learning.
+Pacman trained with supervised learning using UC Berkeley CS188 Intro to AI Pacman's implemetation.
 
 To run the code, please first pip install the following dependencies:
   - pip3 install future
@@ -11,7 +11,9 @@ Some errors may happen when running in linux, so windows is recommended. However
 
 Finally, acces the folder "pacman" and run the following command:
 
-  python busters.py -p WekaBustersAgent
+``
+python busters.py -p WekaBustersAgent
+``
 
 You can chang the layout by adding the -l and the name of any layout found in the folder layouts.
 You can also make the ghosts move randomly by adding -g RandomGhost .
